@@ -1,0 +1,6 @@
+-r requirements.txt
+
+fabric
+ansible
+django-environ
+django-debug-toolbar

@@ -1,0 +1,22 @@
+{
+  "name": "movie",
+  "authors": [
+    "bopo <ibopo@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/static/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.0",
+    "vue": "^2.0.3"
+  }
+}

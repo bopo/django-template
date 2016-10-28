@@ -1,0 +1,88 @@
+
+# django rest framework
+# djangorestframework-word-filter
+# djangorestframework-recursive
+# djangorestframework-filters
+# djangorestframework-msgpack
+# django-rest-multiple-models
+# djangorestframework-oauth
+# djangorestframework
+# drf-nested-routers
+# drf-extensions
+# django-rest-auth
+# django-cors-headers
+
+# django plugins
+django
+django-suit
+django-import-export
+django-model-utils
+django_extensions
+django-environ
+django-secure
+django-celery
+django-mptt
+
+#django-suit-ckeditor
+#django-suit-redactor
+# django-extra-fields
+# django-sendfile
+# django-allauth
+# django-filter
+
+# librares
+easy_thumbnails
+whitenoise
+#pypinyin
+
+#django config
+#django-configurations
+#django-cachalot
+
+django-imagekit
+#django-rest-swagger
+
+# jinja2
+# jpush
+django-easy-select2
+# django-shortuuidfield
+short_url
+
+#unicode-slugify
+qrcode
+django-reversion==1.10.2
+#bs4
+wechatpy
+# html5lib
+
+
+# django-coverage
+# django-baker
+# django-seed
+# django-allauth
+
+
+#jieba
+
+scrapy
+scrapy-sentry
+django-scrapy
+scrapy-sqlitem
+scrapy-mongodb
+scrapy-djangoitem
+scrapyd
+scrapyd-client
+django-dynamic-scraper
+
+gunicorn
+psycopg2
+meinheld
+gevent
+greenlet==0.4.9
+
+# Redis support
+django-redis-cache
+django-redis>=4.3.0
+redis
+click
+plan
